@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap');
 
 /* Row */
 
@@ -1697,11 +1697,12 @@
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #fff;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: rgba(44,168,255, 0.75);
+				color: #fff;
 			}
 
 /* Wide */
